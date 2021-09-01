@@ -30,7 +30,9 @@
 
   Testing was run through Insomnia Core
 
-  Link to Demo Video! https://drive.google.com/file/d/1zqBbX45sk1sRgl4D_dTcJUTbwzG5Eu8V/view?usp=sharing
+Link to StartUp Demo! https://drive.google.com/file/d/1iYsmt_OM1I347kwLMTBVsomo3VdZAZHe/view?usp=sharing
+
+Link to Insomnia Demo Video! https://drive.google.com/file/d/1zqBbX45sk1sRgl4D_dTcJUTbwzG5Eu8V/view?usp=sharing
   
   ## Questions
 
